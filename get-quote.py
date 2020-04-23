@@ -1,9 +1,9 @@
-def main():
+def pymain():
   print("Keep it logically awesome.")
 
 
 if __name__=="__main__":
-  main()
+  pymain()
 
 
 # def main():
